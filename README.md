@@ -26,9 +26,9 @@ By the end of this lab you will be able to...
 
 #### Core Features
 
-- [ ] Users can add new transaction to bank: Takes in description, category, and amount. Be sure to specify what unit of currency the amount is in (i.e USD, cents, etc.)
-- [ ] New transactions will be updated in the activity section with most recent at the bottom.
-- [ ] Allows users to search in activities based on key words or phrases.
+- [x] Users can add new transaction to bank: Takes in description, category, and amount. Be sure to specify what unit of currency the amount is in (i.e USD, cents, etc.)
+- [x] New transactions will be updated in the activity section with most recent at the bottom.
+- [x] Allows users to search in activities based on key words or phrases.
 
 #### Stretch Features
 - [ ] Display the current total balance of the user's bank account on the Home Page.
